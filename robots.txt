@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carsonplumbingco.com/sitemap.xml
